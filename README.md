@@ -2,21 +2,27 @@
 
 UofToilets is an Android and iOS application for finding washrooms and other amenities on the UofT (St. George) campus. UofToilets is built in React Native.
 
-# Development
+# Contribution
 
-Ensure that `expo` is installed with
+## Guidelines
+
+None at the moment.
+
+## Development Environment
+
+Ensure that `expo` is installed with:
 
 ```bash
 npm install -g expo-cli
 ```
 
-For this repository, then clone that fork with
+For this repository, then clone that fork with:
 
 ```bash
-git clone git@github.com:<your username>/uoftoilets
+git clone git@github.com:<your username>/uoftoilets  # or whatever else you called the fork
 ```
 
-Start the development environment with `expo-cli`
+Go to the relevant directory and start the development environment with `expo-cli`:
 
 ```bash
 expo start
